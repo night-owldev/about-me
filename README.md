@@ -19,9 +19,13 @@ I like taking an idea, shaping it through prompts, and refining the result along
 ### Contribution trail 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/night-owldev/night-owldev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/night-owldev/night-owldev/output/github-snake.svg">
-  <img alt="Animated snake tracing night-owldev’s GitHub contributions" src="https://raw.githubusercontent.com/night-owldev/night-owldev/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/night-owldev/about-me/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/night-owldev/about-me/output/github-snake.svg">
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/night-owldev/about-me/output/github-snake.svg"
+    width="100%">
 </picture>
 
 ### Find me
